@@ -1,0 +1,8 @@
+2020-03-02 13:23:13,201 INFO  [log] 901
+2020-03-02 13:23:17,128 INFO  [log] 901
+2020-03-02 13:23:18,265 INFO  [log] true
+2020-03-02 13:23:19,124 INFO  [log] 902
+2020-03-02 13:23:22,396 INFO  [log] 902
+2020-03-02 13:23:23,300 INFO  [log] true
+2020-03-02 13:23:23,372 INFO  [log] Status: FINISHED, time taken for TestCase was: 4887 ms
+2020-03-02 13:23:23,398 INFO  [log] Number of test steps which ran: 4
